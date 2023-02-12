@@ -30,9 +30,9 @@ document.addEventListener('DOMContentLoaded', () => {
 })
 
 //Intervallo che richiama la stampa dell'ora ogni 500ms, ciò permette il funzionamento dell'orologio
-/*setInterval(() => {
+setInterval(() => {
     inserisciOrario()
-}, 500)*/
+}, 500)
 
 //Stampa il contenuto dei nodi che indicano l'ora, i minuti, i secondi, il giorno, il mese e l'anno corrente
 function inserisciOrario() {
