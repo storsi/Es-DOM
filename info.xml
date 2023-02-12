@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dati>
+    <orario>
+        <datoOra>15</datoOra>
+        <datoOra>43</datoOra>
+        <datoOra>15</datoOra>
+    </orario>
+
+    <giorno>
+        <datoGiorno>Sabato</datoGiorno>
+        <datoGiorno>04</datoGiorno>
+        <datoGiorno>Febbraio</datoGiorno>
+        <datoGiorno>2023</datoGiorno>
+    </giorno>
+
+    <pensieri>
+
+    </pensieri>
+</dati>
